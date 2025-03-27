@@ -39,6 +39,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework", "week05\Homework\Homework.csproj", "{43747AB7-08F4-40D8-9C09-0375269692A9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week02", "week02", "{B5BEAF5E-7F55-4411-AC6D-7E6DEDAFACB1}"
+	ProjectSection(SolutionItems) = preProject
+		week02\Job.cs = week02\Job.cs
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Journal", "week02\Journal\Journal.csproj", "{147CC958-797E-4D79-BE88-228E95A8678B}"
 EndProject
