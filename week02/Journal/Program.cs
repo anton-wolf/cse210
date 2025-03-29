@@ -47,7 +47,8 @@ class Program
                     // populate attributes
                     entry._date = dateText;
                     entry._promptText = prompt;
-                    entry._entryText = newEntry;
+                    entry._entryText = newEntry; 
+                    
 
                     // populate entries
                     string data = $"{entry._date}\n{entry._promptText}\n{entry._entryText}";
