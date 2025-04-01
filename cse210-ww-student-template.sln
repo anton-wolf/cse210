@@ -54,6 +54,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fractions", "week03\Fractions\Fractions.csproj", "{6D76A1CF-EC33-4A11-A4D1-875E3BC9B0F4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week04", "week04", "{DF91008F-F53E-47FA-8705-F7975A484AC4}"
+	ProjectSection(SolutionItems) = preProject
+		week04\youtube.png = week04\youtube.png
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YouTubeVideos", "week04\YouTubeVideos\YouTubeVideos.csproj", "{A6709D86-1F90-495D-8153-747314A4A638}"
 EndProject
